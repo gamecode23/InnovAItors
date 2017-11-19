@@ -1,0 +1,8 @@
+Dependencies
+
+keras 2.0 with tensorflow backend
+playsound
+opencv 3 or higher
+jupyter notebook
+numpy 1.13
+
